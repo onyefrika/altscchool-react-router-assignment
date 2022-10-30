@@ -1,0 +1,19 @@
+*{
+    background-color: blanchedalmond;
+} 
+.home {
+  
+    padding-top: 20px;
+  }
+  
+  .home h1,
+  .home h3 {
+    text-align: center;
+    margin: 20px 0;
+    color: black;
+  }
+  
+  .home p {
+    margin: 20px 0;
+  }
+

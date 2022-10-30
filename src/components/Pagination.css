@@ -1,0 +1,33 @@
+.pagination {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+    background-color: bisque;
+  }
+  
+  .pagination .prev {
+    background-color: peachpuff;
+    border: 0.5px solid #333;
+  }
+  
+  .pagination .prev:hover {
+    background-color: #333;
+    color: #fff;
+  }
+  
+  .pagination li {
+    background-color: peachpuff;
+    padding: 6px;
+    border: 0.5px solid #333;
+    list-style: none;
+  }
+  
+
+  .pagination a {
+    color:black;
+    text-decoration: solid;
+  }
+  
+  .pagination li a:hover {
+    color:wheat;
+  }
